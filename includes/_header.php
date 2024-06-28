@@ -32,7 +32,7 @@ if($actualsesion == null || $actualsesion == ''){
     <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.php">
     <div class="sidebar-brand-icon rotate-n-15">
     </div>
-    <div class="sidebar-brand-text mx-3">ADMIN</div>
+    <div class="sidebar-brand-text mx-3">BIENVENIDO</div>
 </a>
 <hr class="sidebar-divider my-0">
 <li class="nav-item active">
@@ -54,7 +54,7 @@ if($actualsesion == null || $actualsesion == ''){
 <li class="nav-item">
     <a class="nav-link collapsed" href="categorias.php">
         <span class="material-icons">category</span>
-        <span>  Categorias</span>
+        <span>Categorias</span>
     </a>
 </li>
 <hr class="sidebar-divider">
